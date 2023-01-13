@@ -7,8 +7,11 @@ export const Login = () => {
   return (
     <div>
         <section className='login'>
+        <div className='container-log'>
+        <div className='log-content'>
+        <div className='logform'>
+        <h2 className='form-title'>LOG IN</h2>
             <Form className='register-form' id='register-form'>
-                <h2 className='form-title'>LOG IN</h2>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
                     <Form.Label className="">Email address</Form.Label>
                     <Form.Control className="" type="email" placeholder="Enter email" />
@@ -28,6 +31,7 @@ export const Login = () => {
                     Submit
                 </Button>
             </Form>
+            </div></div>
         </section>
     </div>
   )
