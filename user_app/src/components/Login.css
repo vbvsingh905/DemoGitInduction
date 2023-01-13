@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    
+}
+
+.form-title{
+    font-weight: bolder;
+ }
+
+ .login{
+    background-image:linear-gradient( rgba(216, 201, 201, 0.445), rgba(150, 210, 218, 0.644));
+    border-style: groove;
+    width: 600px;
+    height: 200px;
+    top: 300px;
+    display: flex;
+    align-items:center;
+    margin-top: 0px;
+    justify-content:center;
+    margin-left: 0px;
+    border-radius: 15px;
+    
+ }
