@@ -1,0 +1,38 @@
+
+.form-title{
+    font-weight: bolder;
+    align-items:center;
+    justify-content:center;
+ }
+
+ .login{
+    background-image:linear-gradient( rgba(216, 201, 201, 0.445), rgba(150, 210, 218, 0.644));
+    border-style: groove;
+    width: 600px;
+    height: 200px;
+    top: 300px;
+    display: flex;
+    align-items:center;
+    margin-top: 0px;
+    justify-content:center;
+    margin-left: 0px;
+    border-radius: 15px;
+ }
+.a {
+    text-align: right;
+    padding: 10px 20px 10px 2px;
+    margin-top: 0px;
+
+ }
+ .ab {
+    text-align: right;
+    padding: 10px 20px 10px 2px;
+    margin-top: 0px;
+
+ }
+ .form-text {
+    text-align: justify;
+    padding: 0px 10px 0px 2px;
+    top: 300px;
+
+ }
